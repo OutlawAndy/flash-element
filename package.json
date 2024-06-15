@@ -1,0 +1,28 @@
+{
+  "name": "flash-element",
+  "version": "0.0.1",
+  "description": "register a self removing, toast-style, custom HTML element: <flash-message>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutlawAndy/flash-element.git"
+  },
+  "keywords": [
+    "Rails",
+    "Flash",
+    "Alert",
+    "Turbo",
+    "HTML",
+    "Custom",
+    "Element"
+  ],
+  "author": "Andy Cohen <outlawandy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutlawAndy/flash-element/issues"
+  },
+  "homepage": "https://github.com/OutlawAndy/flash-element#readme"
+}
